@@ -3,6 +3,9 @@
 
 pragma solidity ^0.8.13;
 
+/**
+Contract for adding student and students score by class teacher.
+*/
 contract ScoreCard {
 
     uint256 studentCount=0;
